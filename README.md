@@ -1,6 +1,6 @@
 # Contact-page
 
-## Tools use:
+## Tools use are :
 - Express
 - Nodemailer
 
